@@ -2,6 +2,107 @@
 layout: default
 ---
 
+
+
+Thank you for visiting my site where the small guy has people who can back him.
+
+
+Below are some senarios we handle:
+
+
+- [ ] Federal Agencies / IRS Calls 
+- [ ] State Government / Tax Calls
+- [ ] Local Government Agencies 
+- [ ] Company calls
+- [ ] Person to return your call
+
+
+What we charge is a [nominal setup fee]($50) this covers your setup, and phone configurations.  Where you point us the number and 
+tell us the desired outcome you wish.  
+
+Our international customers like our services as it allows them to avoid intercontiental calling charges.  Our domestic clients love us
+because we allow them to do what they do best, and allow us to handle the phones and the follow-up calls that proceed.
+
+
+
+### IRS Calls / Federal Agencies
+
+_We call them, we wait on hold, we ask for the disered outcome, and we follow-up with you afterwards_
+
+Scenario 1:
+John Doe owes the IRS a considerable amount of money, but his job, family, and responsibilities keep him extermely busy.  He wants to 
+get his account in order, and get his debt resolved.  But **everytime he calls there is an hour wait, and his phone drops, and then he has to 
+call them again and wait another hour.**
+
+Speaks another language and does not speak English well.  He needs to get the issue resolved as the IRS is now threatening Levy, garnishments, and
+selling all his personal possessions.  
+
+
+Scenario 2:
+John Doe has an I-9 turned into the homeland security and he wants to check on the status and see where things are.  He sends us an email, we return it to
+him in his primary language and he responds with his desired outcome.
+
+Scenario 3:
+John Doe lost something at the air port and needs someone to call TSA for him and get his thing 
+
+
+
+
+
+
+### State Tax Calls
+
+_We call them, we wait on hold, we ask for the disered outcome, and we follow-up with you afterwards_
+
+Scenario 2:
+Jane Doe owes the State a considerable amount of money, but her job, family, and responsibilities keep her extermely busy.  She wants to 
+get her account in order, and get her debt resolved.  But **everytime she calls there is an hour wait, and her phone drops, and then she has to 
+call them again and wait another hour.**
+
+Her newborn needs all of her time and her family afterwards seem to keep her so occupied she can not get any business related calls done.
+
+
+### Local Government Agencies
+
+_We call them, we wait on hold, we ask for the disered outcome, and we follow-up with you afterwards_
+
+Scenario 3:
+Sarah owes the City a considerable amount of money, but her job, family, and responsibilities keep her extermely busy.  She wants to 
+get her account in order, and get her debt resolved.  But **everytime she calls there is an hour wait, and her phone drops, and then she has to 
+call them again and wait another hour.**
+She has called several times now, and her boss is thinking she is looking for another job and her numerous calls may get her fired.
+
+
+### Business calls
+
+_We call them, we wait on hold, we ask for the disered outcome, and we follow-up with you afterwards_
+
+Scenario 4:
+Thomas has been travelling over 20 hours a week.  He is mostly in front of his customers and he needs to make all his sale quotas so that he
+can enjoy that new sales promotion.  However there are 4 parties he needs to attend, over 100 interviews and he is so tired at the end of the day.  
+All he wants is a payment from his clients and customers, but riding, flying, teaching, and building keep his day full and by the time he can make a call
+the company is closed.
+
+
+### Person to return your call
+
+_We call them, we wait on hold, we ask for the disered outcome, and we follow-up with you afterwards_
+
+Scenario 5:
+
+James really likes this girl, but he is afraid to call her, so he uses our service and we make the call for him and try to attempt to get him that date.
+
+Angela loves her kids, but she feels that she may be smoothering them too much, so she uses our service and we call her kids to remind them and those around
+them to take their appointments, celebrations, and visitations
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
