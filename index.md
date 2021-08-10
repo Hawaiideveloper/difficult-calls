@@ -119,6 +119,11 @@ However if you are contacting less than 10 people per day and they are of differ
 - [ ] English / Spanish Translation [human to human] conversation
 
 
+## Setup Fees:
+| Service    | Fee |
+| ----------- | ----------- |
+| Price A    | $0.00     |
+| Price B   | $0.00        |
 
 
 
