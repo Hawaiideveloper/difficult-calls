@@ -121,17 +121,13 @@ However if you are contacting less than 10 people per day and they are of differ
 
 ## Setup Fees:
   
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Item_of_Service      | Description |  Price |
+| -----------          | ----------- |--------|
+| Header               | Title       | $0.00  |
+| Paragraph            | Text        | $0.00  |
 
 
 
-| Service    | Fee |
-| ----------- | ----------- |
-| Price A    | $0.00     |
-| Price B   | $0.00        |
 
 
 
