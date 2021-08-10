@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Getting Started:
-Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled [begin_services](pages_to_begin_service)
+Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin Services">begin_services</a>.
 
 Thank you for visiting my site where I and a few other [bonded](how_we_are_bonded) and [insured](how_we_are_licensed)small guys help you get your time back and remove the need to talk to people.
 
@@ -102,6 +102,7 @@ them to take their appointments, celebrations, and visitations
 
 
 # Begin Services
+<a name="Begin Services"></a> 
 Please have your documents ready to prove identity, then allow us 72 hours to setup your account.  Then we will send you a letter explaing our fees.
 Once you selected your option in regards to the service calls, your credit card will be billed and then our calls begin.  If you or your company requires marketing calls, it is your responsibility to provide the numbers to call, the script you desire, and proof that no client on the list is on a do not call list 
 supplied from the United States Government as we respect those who have requested privacy.
