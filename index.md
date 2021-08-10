@@ -120,6 +120,14 @@ However if you are contacting less than 10 people per day and they are of differ
 
 
 ## Setup Fees:
+  
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
 | Service    | Fee |
 | ----------- | ----------- |
 | Price A    | $0.00     |
