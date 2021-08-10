@@ -5,7 +5,7 @@ layout: default
 ## Getting Started:
 Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin Services">begin_services</a>.
 
-Thank you for visiting my site where I and a few other [bonded](how_we_are_bonded) and [insured](how_we_are_licensed)small guys help you get your time back and remove the need to talk to people.
+Thank you for visiting my site where I and a few other [bonded](https://www.bbb.org/us/mo/columbia/profile/fidelity-bonds/suretybondscom-0734-310444905#sealclick) we are the small guys fighting for you to help you get your time back and remove the need to talk to people.
 
 #### Summary
 _We make that call, that you never have time or do not want to_.  Then we send you a text / email of the results.  You simply type repeat transaction, and we 
