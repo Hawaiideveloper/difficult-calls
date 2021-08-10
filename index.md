@@ -2,9 +2,14 @@
 layout: default
 ---
 
+## Getting Started:
+Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled [begin_services](pages_to_begin_service)
 
+Thank you for visiting my site where I and a few other [bonded](how_we_are_bonded) and [insured](how_we_are_licensed)small guys help you get your time back and remove the need to talk to people.
 
-Thank you for visiting my site where the small guy has people who can back him.
+#### Summary
+_We make that call, that you never have time or do not want to_.  Then we send you a text / email of the results.  You simply type repeat transaction, and we 
+will repeat it, or if you want to try different routes we can do those as well.  We are unable to give legal advice, but we can explain scenarios of past projects and their outcome.
 
 
 Below are some senarios we handle:
@@ -96,7 +101,21 @@ Angela loves her kids, but she feels that she may be smoothering them too much, 
 them to take their appointments, celebrations, and visitations
 
 
+# Begin Services
+Please have your documents ready to prove identity, then allow us 72 hours to setup your account.  Then we will send you a letter explaing our fees.
+Once you selected your option in regards to the service calls, your credit card will be billed and then our calls begin.  If you or your company requires marketing calls, it is your responsibility to provide the numbers to call, the script you desire, and proof that no client on the list is on a do not call list 
+supplied from the United States Government as we respect those who have requested privacy.
+However if you are contacting less than 10 people per day and they are of different subject matter, we will be happy to serve you.
 
+## Our Services
+
+- [ ] Make calls
+- [ ] Make Appointments
+- [ ] Follow-up calls
+- [ ] Messaging service
+- [ ] Digital Florida Postal Corporate Address
+- [ ] Scaning Analog pages and converting for Digital Faxing with confirmation page
+- [ ] English / Spanish Translation [human to human] conversation
 
 
 
