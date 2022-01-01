@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Now Hiring](#)
+[Now Hiring](http://difficultcalls.com/Hiring/)
 
 
 *Our international customers like our services as it allows them to avoid intercontiental calling charges.  Our domestic clients love us
