@@ -10,7 +10,7 @@ because we allow them to do what they do best, and give them back their time.*
 
 
 ## Getting Started:
-Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin Services">begin_services</a>.
+Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#https://forms.gle/xmk1G1yR35x1DhLq5">begin_services</a>, please fill out the form honestly and allows us 24 hours to contact you.
 
 Thank you for visiting my site where I and a few other [bonded](https://www.bbb.org/us/mo/columbia/profile/fidelity-bonds/suretybondscom-0734-310444905#sealclick) we are the small guys fighting for you to help you get your time back and remove the need to talk to people.
 
@@ -22,15 +22,15 @@ will repeat it, or if you want to try different routes we can do those as well. 
 #### Below are some senarios we handle:
 
 
-- [x] Federal Agencies  (IRS, FBI, OPM, CIA, etc.) 
+- [x] Federal Agencies  (Consulate, Embassy, Homeland Security, IRS, FBI, OPM, CIA, etc.) 
 - [x] State Government (Comptroller, Tax, Child Support, law enforcement)
 - [x] Local Government Agencies  (Local law enforcement, Welfare, TANF, Unemployment)
 - [x] Company calls (Terminating employees, Hiring Staff, Follow-ups, Refunds, etc.)
 - [x] Person to return your calls (Ex-spouces, parents, past relationships, any adult over 18 and in rare cases emergency calls)
 
 
-What we charge is a [nominal setup fee]($50) this covers your setup, and phone configurations.  Where you point us at the entity, prove your identity and 
-tell us the desired outcome you outcome, then we handle the rest and update you of our progress and allow you to negoiate via text using our voice, faxes, emails, and letters sent on your behalf.
+What we charge is a nominal setup fee of $50 vs. our [competition](https://thervo.com/costs/attorney-fees) this covers your setup, and phone configurations.  Where you point us at the entity, prove your identity and 
+tell us the desired outcome, then we handle the rest and update you of our progress; which will allow you to negoiate via text using our voice, faxes, email , and tracking number letters sent on your behalf.
 
 The best part is our attempts allow you to limit your liability and provide you with **plausibility**.   
 
@@ -40,23 +40,23 @@ The best part is our attempts allow you to limit your liability and provide you 
 
 ### IRS Calls / Federal Agencies
 
-_We call them, we wait on hold, we ask for the disered outcome, and we follow-up with you afterwards_
+_We call them, we wait on hold, we ask for the desired outcome, and we follow-up with you afterwards_
 
 Scenario 1:
 John Doe owes the IRS a considerable amount of money, but his job, family, and responsibilities keep him extermely busy.  He wants to 
-get his account in order, and get his debt resolved.  But **everytime he calls there is an hour wait, and his phone drops, and then he has to 
+get his account in order, and get his debt resolved.  But **everytime he calls there is a one to two hour wait time, and then his phone drops, and he has to 
 call them again and wait another hour.**
 
-Speaks another language and does not speak English well.  He needs to get the issue resolved as the IRS is now threatening Levy, garnishments, and
+Scenario 2:
+Another Client Speaks another language and does not speak English well.  He needs to get the issue resolved as the IRS is now threatening Levy, garnishments, and
 selling all his personal possessions.  
 
 
-Scenario 2:
-John Doe has an I-9 turned into the homeland security and he wants to check on the status and see where things are.  He sends us an email, we return it to
-him in his primary language and he responds with his desired outcome.
-
 Scenario 3:
-John Doe lost something at the air port and needs someone to call TSA for him and get his thing 
+John Doe has an I-9 turned into the homeland security and he wants to get things expedited as well as check on the status and see where things are.  
+
+Scenario 4:
+John Doe lost something at the air port and needs someone to call TSA / Airline for him and get his item back
 
 
 
@@ -118,12 +118,12 @@ However if you are contacting less than 10 people per day and they are of differ
 
 ## Our Services
 
-- [ ] Make calls
-- [ ] Make Appointments
-- [ ] Follow-up calls
-- [ ] Messaging service
-- [ ] Digital Florida Postal Corporate Address
-- [ ] Scaning Analog pages and converting for Digital Faxing with confirmation page
-- [ ] English / Spanish Translation [human to human] conversation
+- [x] Make calls
+- [x] Make Appointments
+- [x] Follow-up calls
+- [x] Messaging service
+- [x] Physical Florida Postal Address
+- [x] Scaning Analog pages and converting for Digital Faxing with confirmation page
+- [x] English / Spanish Translation [human to human] conversation
 
 
