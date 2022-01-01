@@ -111,7 +111,7 @@ them to take their appointments, celebrations, and visitations
 
 # Begin Services
 <a id="Begin_Services"></a> 
-Please have your documents ready to prove identity, and [click this link, to begin services](https://forms.gle/xmk1G1yR35x1DhLq5) please allow us 24 hours to respond and setup your account.  
+Please have your documents ready to prove identity, and [click this link, to begin services](http://difficultcalls.com/Client_Form/) please allow us 24 hours to respond and setup your account.  
 
 
 ## Our Services
