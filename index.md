@@ -10,7 +10,7 @@ because we allow them to do what they do best, and give them back their time.*
 
 
 ## Getting Started:
-Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#https://forms.gle/xmk1G1yR35x1DhLq5">begin_services</a>, please fill out the form honestly and allows us 24 hours to contact you.
+Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#http://difficultcalls.com/#begin-services">begin_services</a>, please fill out the form honestly and allows us 24 hours to contact you.
 
 Thank you for visiting my site where I and a few other [bonded](https://www.bbb.org/us/mo/columbia/profile/fidelity-bonds/suretybondscom-0734-310444905#sealclick) we are the small guys fighting for you to help you get your time back and remove the need to talk to people.
 
@@ -111,10 +111,8 @@ them to take their appointments, celebrations, and visitations
 
 # Begin Services
 <a name="Begin Services"></a> 
-Please have your documents ready to prove identity, then allow us 72 hours to setup your account.  Then we will send you a letter explaing our fees.
-Once you selected your option in regards to the service calls, your credit card will be billed and then our calls begin.  If you or your company requires marketing calls, it is your responsibility to provide the numbers to call, the script you desire, and proof that no client on the list is on a do not call list 
-supplied from the United States Government as we respect those who have requested privacy.
-However if you are contacting less than 10 people per day and they are of different subject matter, we will be happy to serve you.
+Please have your documents ready to prove identity, and [click this link, to begin services](https://forms.gle/xmk1G1yR35x1DhLq5) please allow us 24 hours to respond and setup your account.  
+
 
 ## Our Services
 
