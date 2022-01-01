@@ -12,11 +12,19 @@ because we allow them to do what they do best, and give them back their time.*
 ## Getting Started:
 Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin_Services">begin_services</a>, please fill out the form honestly and allows us 24 hours to contact you.
 
-Thank you for visiting my site where I and a few other [bonded](https://www.bbb.org/us/mo/columbia/profile/fidelity-bonds/suretybondscom-0734-310444905#sealclick) we are the small guys fighting for you to help you get your time back and remove the need to talk to people.
+Thank you for visiting [DifficultCalls.com](http://difficultcalls.com) where our [licensed and bonded](https://www.bbb.org/us/mo/columbia/profile/fidelity-bonds/suretybondscom-0734-310444905#sealclick) staff are here for the small guys fighting for you to help you get back your time and remove the need to talk verbally talk to difficult people.
+
+
+## Our past customers are:
+- Senior Citizens
+- Foreign Entities and Businesses 
+- Persons with Disabilities
+- Busy professionals
+- Call centers that need dedicated staff for an intended purpose
 
 #### Summary
-_We make that call, that you never have time or do not want to_.  Then we send you a text / email of the results.  You simply type repeat transaction, and we 
-will repeat it, or if you want to try different routes we can do those as well.  We are unable to give legal advice, but we can explain scenarios of past projects and their outcome, which provided our clients with more of their time back, lowered bills, and extensions to deadlines as well as us assisting with terminating debt.
+_We make that call, that you never have time to make or avoid_.  Then we send you a text / email of the results.  You simply type repeat transaction, and we 
+will repeat it, or if you want to try a different route we can do those as well.  Like be a witness, send a fax, follow-up with a certified mail receipt.  Although we are unable to give legal advice, we do have access to counsel and subject matter experts. Our speciality is giving back our clients their time, and lives back so they do not need to deal with difficult people, businesses, or difficult agencies.  We are known to give them their time back, lower their bills, and get extensions to deadlines that normally can not be done unless a physical call is made.
 
 
 #### Below are some senarios we handle:
