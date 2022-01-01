@@ -5,6 +5,10 @@ layout: default
 [Now Hiring](#)
 
 
+*Our international customers like our services as it allows them to avoid intercontiental calling charges.  Our domestic clients love us
+because we allow them to do what they do best, and give them back their time.*
+
+
 ## Getting Started:
 Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin Services">begin_services</a>.
 
@@ -12,24 +16,25 @@ Thank you for visiting my site where I and a few other [bonded](https://www.bbb.
 
 #### Summary
 _We make that call, that you never have time or do not want to_.  Then we send you a text / email of the results.  You simply type repeat transaction, and we 
-will repeat it, or if you want to try different routes we can do those as well.  We are unable to give legal advice, but we can explain scenarios of past projects and their outcome.
+will repeat it, or if you want to try different routes we can do those as well.  We are unable to give legal advice, but we can explain scenarios of past projects and their outcome, which provided our clients with more of their time back, lowered bills, and extensions to deadlines as well as us assisting with terminating debt.
 
 
-Below are some senarios we handle:
+#### Below are some senarios we handle:
 
 
-- [ ] Federal Agencies / IRS Calls 
-- [ ] State Government / Tax Calls
-- [ ] Local Government Agencies 
-- [ ] Company calls
-- [ ] Person to return your call
+- [x] Federal Agencies  (IRS, FBI, OPM, CIA, etc.) 
+- [x] State Government (Comptroller, Tax, Child Support, law enforcement)
+- [x] Local Government Agencies  (Local law enforcement, Welfare, TANF, Unemployment)
+- [x] Company calls (Terminating employees, Hiring Staff, Follow-ups, Refunds, etc.)
+- [x] Person to return your calls (Ex-spouces, parents, past relationships, any adult over 18 and in rare cases emergency calls)
 
 
-What we charge is a [nominal setup fee]($50) this covers your setup, and phone configurations.  Where you point us the number and 
-tell us the desired outcome you wish.  
+What we charge is a [nominal setup fee]($50) this covers your setup, and phone configurations.  Where you point us at the entity, prove your identity and 
+tell us the desired outcome you outcome, then we handle the rest and update you of our progress and allow you to negoiate via text using our voice, faxes, emails, and letters sent on your behalf.
 
-Our international customers like our services as it allows them to avoid intercontiental calling charges.  Our domestic clients love us
-because we allow them to do what they do best, and allow us to handle the phones and the follow-up calls that proceed.
+The best part is our attempts allow you to limit your liability and provide you with **plausibility**.   
+
+
 
 
 
