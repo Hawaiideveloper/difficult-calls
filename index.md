@@ -35,8 +35,8 @@ will repeat it, or if you want to try a different route we can do those as well.
 - Maybe you are trying to qualify for a loan and need someone to vouch for your character and it needs to be from a company?
 - Perhaps the tax man says you owe money that you are positive that you don't.
 - Maybe you need someone to help lower / raise child support and need a company that will assist in validation / termination of arrears, guideliens, or salary adjustments and you need someone else to call for you on your behalf
-- Maybe someone one or a company owes you money and you need to call to remind of your collection
-- Maybe you owe someone and need us to validate the debt is real or not
+- Maybe someone or a company owes you money and you need to call to remind them of the debt and you need a collection company to call them for you.
+- Maybe you owe someone and need us to validate the debt or not; or someone to block you from phishing calls.
 
 We can be a witness, send a fax, follow-up with a certified mail receipt, and assist in legal matters that are complex enough where a lawyer could be expensive and only needs a phone call instead.  Although we are unable to give legal advice, we do have access to counsel and subject matter experts and resources to help you: establish, justify, and argue your position.   
 Our speciality is giving back our clients' their time, and lives back so they do not need to deal with difficult people, businesses, or difficult agencies.  We are known to give them their time back, lower their bills, and get extensions to deadlines that normally can not be done unless a physical call is made.
