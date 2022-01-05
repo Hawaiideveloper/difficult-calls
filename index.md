@@ -10,21 +10,36 @@ because we allow them to do what they do best, and give them back their time.*
 
 
 ## Getting Started:
-Please feel free to read the page and its following pages.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin_Services">begin_services</a>, please fill out the form honestly and allows us 24 hours to contact you.
+Please feel free to read the page and its following pages as we operate a service to the community especially to those who have busy lives.  However if you know how things work, and want to use our services.  Please click the link here entitled <a href="#Begin_Services">begin_services</a>, please fill out the form honestly and allows us 24 hours to contact you.
+
 
 Thank you for visiting [DifficultCalls.com](http://difficultcalls.com) where our [licensed and bonded](https://www.bbb.org/us/mo/columbia/profile/fidelity-bonds/suretybondscom-0734-310444905#sealclick) staff are here for the small guys fighting for you to help you get back your time and remove the need to talk verbally talk to difficult people.
 
-
-## Our past customers are:
-- Senior Citizens
-- Foreign Entities and Businesses 
+## Who our customers are:
+- All information about our customers is confidential and will not be discussed without court order
+- All age groups from 18 to Senior Citizens
+- Foreign Entities and Domestic Estates / Businesses 
 - Persons with Disabilities
 - Busy professionals
-- Call centers that need dedicated staff for an intended purpose
+- Call centers that need dedicated staff for a specialized intended purpose
 
 #### Summary
 _We make that call, that you never have time to make or avoid_.  Then we send you a text / email of the results.  You simply type repeat transaction, and we 
-will repeat it, or if you want to try a different route we can do those as well.  Like be a witness, send a fax, follow-up with a certified mail receipt.  Although we are unable to give legal advice, we do have access to counsel and subject matter experts. Our speciality is giving back our clients their time, and lives back so they do not need to deal with difficult people, businesses, or difficult agencies.  We are known to give them their time back, lower their bills, and get extensions to deadlines that normally can not be done unless a physical call is made.
+will repeat it, or if you want to try a different route we can do those as well.  
+
+> *We specialize in saving our customers time, so that they do not have to hear a negative word or deal with negative situations alone.  We call them, we follow-up, and we answer all calls even the difficult ones.*
+
+
+- Are you dealing with a court case that needs someone to gather or assist with the gathering of information that only a phone call to do?
+- Or may you need to get references checked or perhaps you need a reference to validate something and need someone to call for you?
+- Maybe you are trying to qualify for a loan and need someone to vouch for your character and it needs to be from a company?
+- Perhaps the tax man says you owe money that you are positive that you don't.
+- Maybe you need someone to help lower / raise child support and need a company that will assist in validation / termination of arrears, guideliens, or salary adjustments and you need someone else to call for you on your behalf
+- Maybe someone one or a company owes you money and you need to call to remind of your collection
+- Maybe you owe someone and need us to validate the debt is real or not
+
+We can be a witness, send a fax, follow-up with a certified mail receipt, and assist in legal matters that are complex enough where a lawyer could be expensive and only needs a phone call instead.  Although we are unable to give legal advice, we do have access to counsel and subject matter experts and resources to help you: establish, justify, and argue your position.   
+Our speciality is giving back our clients' their time, and lives back so they do not need to deal with difficult people, businesses, or difficult agencies.  We are known to give them their time back, lower their bills, and get extensions to deadlines that normally can not be done unless a physical call is made.
 
 
 #### Below are some senarios we handle:
@@ -35,15 +50,15 @@ will repeat it, or if you want to try a different route we can do those as well.
 - [x] Local Government Agencies  (Local law enforcement, Welfare, TANF, Unemployment)
 - [x] Company calls (Terminating employees, Hiring Staff, Follow-ups, Refunds, etc.)
 - [x] Person to return your calls (Ex-spouces, parents, past relationships, any adult over 18 and in rare cases emergency calls)
+- [x] Collections done on both sides *(disputing and collecting)*
 
 
-What we charge is a nominal setup fee of $50 vs. our [competition](https://thervo.com/costs/attorney-fees) this covers your setup, and phone configurations.  Where you point us at the entity, prove your identity and 
-tell us the desired outcome, then we handle the rest and update you of our progress; which will allow you to negoiate via text using our voice, faxes, email , and tracking number letters sent on your behalf.
+What we charge is a nominal setup fee of $50 vs. our [competition](https://thervo.com/costs/attorney-fees) this covers your setup, and phone configurations.  Where you point us at the entity, then prove your identity and tell us the desired outcome, then we handle the rest and update you of our progress; which will allow you to negoiate via text using our voice, faxes, email , and tracking number letters sent on your behalf and allows us to do the arguing for you.
 
 The best part is our attempts allow you to limit your liability and provide you with **plausibility**.   
 
-
-
+> [Plausible](https://www.merriam-webster.com/dictionary/plausible) - : *appearing worthy of belief*
+                     - Merriam-Webster     -
 
 
 ### IRS Calls / Federal Agencies
